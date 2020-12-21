@@ -1,0 +1,8 @@
+/.vscode
+/node_modules
+/src
+.babelrc
+.eslintrc.js
+.prettierrc
+.tsconfig.json
+webpack.config.js
